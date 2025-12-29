@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-'''
+```
 
 map.html
 
@@ -247,7 +247,7 @@ Transport connectivity is another highlight of Kundrathur. Well-linked by road t
         </p>
     </body>
 </html>
-'''
+```
 # OUTPUT
 <img width="1282" height="530" alt="image" src="https://github.com/user-attachments/assets/e9e08df1-3f4d-43b8-950d-b9fb481a336c" />
 <img width="1263" height="421" alt="image" src="https://github.com/user-attachments/assets/560a0e49-f5d2-4a3d-8f9e-a888a600a111" />
